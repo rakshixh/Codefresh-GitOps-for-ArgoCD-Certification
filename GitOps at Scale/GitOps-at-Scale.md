@@ -1,0 +1,1 @@
+## GitOps at Scale - Learn sound strategies for managing applications and version deployments across multiple environments.
