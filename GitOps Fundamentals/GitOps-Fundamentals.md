@@ -1,4 +1,4 @@
-## GitOps Fundamentals 
+## GitOps Fundamentals - Level 1
 ### 📌 Learn the basics of GitOps with ArgoCD and Argo Rollouts.
 
 #### Q1. What is GitOps?
@@ -21,4 +21,8 @@
 
 <br>
 
-#### Q3.
+#### Q3. Is the following statement true or false? GitOps is only for Kubernetes applications.
+- True
+- **False**
+
+> **Correct Answer : <br> False**
