@@ -8,3 +8,17 @@
 - **It is set of best-practices for deployments.**
 
 > **Correct Answer : <br> It is set of best-practices for deployments.**
+
+<br>
+
+#### Q2. How are GitOps and DevOps related?
+- GitOps is next thing after DevOps.
+- GitOps is a subset of DevOps.
+- **DevOps is a paradigm/mindset. GitOps is a set of best practices.**
+- GitOps is a superset of DevOps.
+
+> **Correct Answer : <br> DevOps is a paradigm/mindset. GitOps is a set of best practices.**
+
+<br>
+
+#### Q3.
