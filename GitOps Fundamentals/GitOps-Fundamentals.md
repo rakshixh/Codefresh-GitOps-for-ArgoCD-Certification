@@ -7,4 +7,4 @@
 - It is the same as Infrastructure as Code.
 - **It is set of best-practices for deployments.**
 
-> Correct Answer : It is set of best-practices for deployments.
+> <b style="color:orange">Correct Answer : It is set of best-practices for deployments.</b>
