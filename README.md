@@ -12,12 +12,8 @@
 
 | Certification       | Level‎‎‎‎ | Description |
 | :------------------ | :---- | :-------------- |
-| GitOps Fundamentals | Level 1 | Learn the basics of GitOps with ArgoCD and Argo Rollouts.                                                                                                                                                                                                                    |
-| GitOps at Scale     | Level 2 | Performing GitOps deployments on a single environment for a single application is straightforward. When multiple environments are in play (e.g. qa/staging/production), you need a sound strategy for managing all applications and knowing which version is deployed where. |
-
-<h2>🍰 Contribution Guidelines:</h2>
-
-Coming Soon...
+| GitOps Fundamentals | 1 | Learn the basics of GitOps with ArgoCD and Argo Rollouts.                                                                                                                                                                                                                    |
+| GitOps at Scale     | 2 | Performing GitOps deployments on a single environment for a single application is straightforward. When multiple environments are in play (e.g. qa/staging/production), you need a sound strategy for managing all applications and knowing which version is deployed where. |
 
 <h2>🛡️ License:</h2>
 
