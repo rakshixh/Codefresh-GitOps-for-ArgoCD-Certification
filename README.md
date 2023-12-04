@@ -19,6 +19,6 @@
 
 This project is licensed under the MIT license
 
-![GitHub watchers](https://img.shields.io/github/watchers/rakshixh/Codefresh-GitOps-for-ArgoCD-Certification?label=Number%20of%20Watchers&labelColor=orange&color=black) ![GitHub issues](https://img.shields.io/github/issues/rakshixh/Codefresh-GitOps-for-ArgoCD-Certification?label=Number%20of%20issues&labelColor=orange&color=black) ![GitHub forks](https://img.shields.io/github/forks/rakshixh/Codefresh-GitOps-for-ArgoCD-Certification?label=Number%20of%20Forks&logoColor=orange&labelColor=orange&color=black) ![GitHub Repo stars](https://img.shields.io/github/stars/rakshixh/Codefresh-GitOps-for-ArgoCD-Certification?label=Number%20of%20Stars&labelColor=orange&color=black)
+![GitHub watchers](https://img.shields.io/github/watchers/rakshixh/Codefresh-GitOps-for-ArgoCD-Certification?label=Number%20of%20Watchers&labelColor=orange&color=black) ![GitHub issues](https://img.shields.io/github/issues/rakshixh/Codefresh-GitOps-for-ArgoCD-Certification?label=Number%20of%20Issues&labelColor=orange&color=black) ![GitHub forks](https://img.shields.io/github/forks/rakshixh/Codefresh-GitOps-for-ArgoCD-Certification?label=Number%20of%20Forks&logoColor=orange&labelColor=orange&color=black) ![GitHub Repo stars](https://img.shields.io/github/stars/rakshixh/Codefresh-GitOps-for-ArgoCD-Certification?label=Number%20of%20Stars&labelColor=orange&color=black)
 
 
