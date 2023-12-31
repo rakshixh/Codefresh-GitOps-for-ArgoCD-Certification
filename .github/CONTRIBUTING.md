@@ -13,7 +13,7 @@ Before contributing, we encourage you to read our [Code of Conduct](https://gith
 ### Cloning the Repository
 
 #### 1. Fork the Repository
-Click the fork button at the top right of the page to create a copy of this repo in your account, or go to this repository's fork page. After successfully forking the repo, you will be directed to your repo copy.
+Click the fork button at the top right of the page to create a copy of this repo in your account, or go to this repository's [fork page](https://github.com/rakshixh/Codefresh-GitOps-for-ArgoCD-Certification/fork). After successfully forking the repo, you will be directed to your repo copy.
 
 #### 2. Clone the forked Repository
 On your forked repo, click the green button that says `Code`. It will open a dropdown menu. Copy the link in the input with the label `HTTPS` or `GitHub CLI` depending on your preferred cloning mode.
