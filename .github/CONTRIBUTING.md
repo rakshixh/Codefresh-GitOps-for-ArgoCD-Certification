@@ -6,9 +6,9 @@ Before contributing, we encourage you to read our [Code of Conduct](https://gith
 
 <h2>📝 Contributing to the repository</h2>
 
-- cloning the repository (repo)
-- making your changes
-- opening a pull request
+- Cloning the Repository (repo)
+- Making your Changes
+- Opening a Pull Request
 
 ### Cloning the Repository
 
