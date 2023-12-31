@@ -20,3 +20,73 @@
 > **Correct Answer : <br> You create an Argo CD application that points to other applications**
 
 <br>
+
+#### Q3. Where should you deploy an Argo CD application manifest?
+- In the “argo” namespace
+- **In any namespace defined by the Argo CD admin.**
+- In the "default" or “kube-system” namespace
+- In any namespace of a cluster that has Argo CD installed (apart from kube-system)
+
+> **Correct Answer : <br> In any namespace defined by the Argo CD admin.**
+
+<br>
+
+#### Q4. If you define “self-heal” for a root application that contains other applications...
+- **Self-heal is enabled only for the parent app**
+- Self-heal is enabled only for the children apps
+- Self-heal is enabled for both parent and child apps
+- Self-heal is enabled only for the parent app if children apps have it enabled as well
+
+> **Correct Answer : <br> Self-heal is enabled only for the parent app**
+
+<br>
+
+#### Q5. How can you use the Apps of Apps pattern?
+- For grouping multiple apps together
+- For cluster bootstrapping
+- For automated application creation via git monitoring
+- **All of the above**
+
+> **Correct Answer : <br> All of the above**
+
+<br>
+
+#### Q6. How does Argo CD manage Kubernetes clusters?
+- You need to install an Argo CD instance on every deployment cluster
+- You need a central Argo CD instance that manages all your clusters
+- You need multiple Argo CD instances that manage subsets of your clusters
+- **All of the above are valid scenarios**
+
+> **Correct Answer : <br> All of the above are valid scenarios**
+
+<br>
+
+#### Q7. When you add an external cluster in Argo CD…
+- **You need a context for the target cluster and the CLI authenticated to the management cluster**
+- You need a Kubernetes context for both clusters
+- You need the Argo CD CLI authenticated to both clusters
+- You need Argo CD API access to both clusters
+
+> **Correct Answer : <br> You need a context for the target cluster and the CLI authenticated to the management cluster**
+
+<br>
+
+#### Q8. When you add an external/target cluster in Argo CD...
+- **The management cluster needs network access to the target cluster**
+- The target cluster needs outgoing network access to the management cluster
+- The target cluster needs to be installed in a VPC first
+- Both clusters must be part of the same VPC
+
+> **Correct Answer : <br> The management cluster needs network access to the target cluster**
+
+<br>
+
+#### Q9. It's possible to add an external cluster to Argo CD…
+- Using the CLI
+- Using the UI only
+- Using either the UI or the CLI
+- Using the UI for adding the cluster and the CLI for inspecting the cluster
+
+> **Wrong Answer : <br> Using the UI only**
+
+<br>
