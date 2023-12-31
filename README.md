@@ -15,6 +15,10 @@
 | [GitOps Fundamentals](https://github.com/rakshixh/Codefresh-GitOps-for-ArgoCD-Certification/blob/main/GitOps%20Fundamentals%20-%20Level%201/GitOps-Fundamentals.md) | L 1 | Learn the basics of GitOps with ArgoCD and Argo Rollouts.                                                                                                                                                                                                                    |
 | [GitOps at Scale](https://github.com/rakshixh/Codefresh-GitOps-for-ArgoCD-Certification/blob/main/GitOps%20at%20Scale%20-%20Level%202/GitOps-at-Scale.md)     | L 2 | Performing GitOps deployments on a single environment for a single application is straightforward. When multiple environments are in play (e.g. qa/staging/production), you need a sound strategy for managing all applications and knowing which version is deployed where. |
 
+<h2>🪄 Contribution Guidelines:</h2>
+
+
+
 <h2>🛡️ License:</h2>
 
 This repository is licensed under the MIT license
