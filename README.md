@@ -18,7 +18,7 @@
 <h2>🪄 Contribution Guidelines:</h2>
 
 Check the Contributing Guide out. <br>
-Head over to our issue tracker to check more about it. <br>
+Head over to our [issue tracker](https://github.com/rakshixh/Codefresh-GitOps-for-ArgoCD-Certification/issues) to check more about it. <br>
 We expect all contributors to abide by the terms of our [Code of Conduct](https://github.com/rakshixh/Codefresh-GitOps-for-ArgoCD-Certification/blob/main/.github/CODE_OF_CONDUCT.md).
 
 <h2>🛡️ License:</h2>
