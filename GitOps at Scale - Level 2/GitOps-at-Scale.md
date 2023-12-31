@@ -90,3 +90,13 @@
 > **Wrong Answer : <br> Using the UI only**
 
 <br>
+
+#### Q10. What is the relationship between Application Sets and Apps of Apps?
+- App of Apps is the next version of Application Sets
+- Application Sets are the next version of Apps of Apps
+- Application Sets is the rewrite of Apps of Apps
+- **Both approaches are independent of each other**
+
+> **Correct Answer : <br> Both approaches are independent of each other**
+
+<br>
