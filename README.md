@@ -25,7 +25,7 @@ We expect all contributors to abide by the terms of our [Code of Conduct](https:
 
 This repository is licensed under the MIT license
 
-![GitHub watchers](https://img.shields.io/github/watchers/rakshixh/Codefresh-GitOps-for-ArgoCD-Certification?label=Number%20of%20Watchers&labelColor=orange&color=black) 
-![GitHub issues](https://img.shields.io/github/issues/rakshixh/Codefresh-GitOps-for-ArgoCD-Certification?label=Number%20of%20Issues&labelColor=orange&color=black) 
-![GitHub forks](https://img.shields.io/github/forks/rakshixh/Codefresh-GitOps-for-ArgoCD-Certification?label=Number%20of%20Forks&logoColor=orange&labelColor=orange&color=black) 
-![GitHub Repo stars](https://img.shields.io/github/stars/rakshixh/Codefresh-GitOps-for-ArgoCD-Certification?label=Number%20of%20Stars&labelColor=orange&color=black)
+![GitHub watchers](https://img.shields.io/github/watchers/rakshixh/Codefresh-GitOps-for-ArgoCD-Certification?label=Number%20of%20Watchers&style=flat&labelColor=orange&color=black)
+![GitHub forks](https://img.shields.io/github/forks/rakshixh/Codefresh-GitOps-for-ArgoCD-Certification?label=Number%20of%20Forks&style=flat&labelColor=orange&color=black)
+![GitHub Repo stars](https://img.shields.io/github/stars/rakshixh/Codefresh-GitOps-for-ArgoCD-Certification?style=flat&label=Number%20of%20Stars&labelColor=orange&color=black)
+![GitHub issues](https://img.shields.io/github/issues/rakshixh/Codefresh-GitOps-for-ArgoCD-Certification?label=Number%20of%20Issues&labelColor=orange&color=black)
