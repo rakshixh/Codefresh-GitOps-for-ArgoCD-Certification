@@ -45,7 +45,38 @@ git checkout -b <your-branch-name>
 ```
 
 #### 2. Make your Changes
-You are to make only one contribution per pull request. It makes it easier to review and merge. If you have multiple bug fixes or features, create separate pull requests for each.
+To add new questions, follow the given format of markdown.
+
+```
+#### Q<Question Number Goes here>. <Your Question Goes here>
+- **<Option A (Correct)>**
+- <Option B>
+- <Option C>
+- <Option D>
+
+> **Correct Answer : <br> <Option A (Correct)>**
+
+<br>
+```
+
+>[!NOTE]
+>You can add the `Correct Option` in any place but make sure to add `**` at the beginning and the end of the option.
+
+Eg:
+```
+#### Q14. Garampani Sanctuary is located at?
+- Junagarh, Gujarat
+- **Diphu, Assam**
+- Kohima, Nagaland
+- Gangtok, Sikkim
+
+> **Correct Answer : <br> Diphu, Assam**
+
+<br>
+```
+
+> [!IMPORTANT]
+> You are to make only `one contribution` per `pull request`. It makes it easier to review and merge. If you want to add `multiple new questions` or if you have solved `multiple issues`, create `separate pull requests` for each.
 
 #### 3. Commit your Changes
 Your commit message should give a concise idea of the issue you are solving. Please be specific about the commit message.
