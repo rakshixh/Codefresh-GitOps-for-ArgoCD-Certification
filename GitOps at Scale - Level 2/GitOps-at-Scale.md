@@ -160,3 +160,13 @@
 > **Correct Answer : <br> SCM provider Generator**
 
 <br>
+
+#### Q17. You have lots of applications in a single Git repository under “/infra/apps/”. The correct ApplicationSet generator to use is
+- **Git Generator**
+- List Generator
+- SCM provider Generator
+- Pull Request Generator
+
+> **Correct Answer : <br> Git Generator**
+
+<br>
