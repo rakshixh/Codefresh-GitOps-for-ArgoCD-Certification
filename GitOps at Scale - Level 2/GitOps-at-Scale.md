@@ -100,3 +100,63 @@
 > **Correct Answer : <br> Both approaches are independent of each other**
 
 <br>
+
+#### Q11. Can you use Application Sets with App of Apps applications?
+- No, the respective controllers are not compatible with each other
+- No, because they use different installation namespaces
+- **Yes,  they can be combined with no limitations**
+- Yes, they can be combined but only if the controllers are the same version
+
+> **Correct Answer : <br> Yes,  they can be combined with no limitations**
+
+<br>
+
+#### Q12. For what scenarios can you use Application Sets?
+- For installing multiple instances of an application to multiple clusters
+- For installing multiple applications on a single cluster
+- For installing multiple applications to multiple clusters
+- **All of the above**
+
+> **Correct Answer : <br> All of the above**
+
+<br>
+
+#### Q13. How do Application Sets work?
+- **Application Sets are generators for Argo CD applications**
+- Application Sets are used for managing Helm subcharts
+- Application Sets combine Helm and Kustomize in a single Application
+- Application Sets are used to split Applications from their manifests
+
+> **Correct Answer : <br> Application Sets are generators for Argo CD applications**
+
+<br>
+
+#### Q14. What source can be used for Application Sets?
+- A hardcoded list of applications
+- A dynamic list of applications stored in git folders
+- A dynamic list of applications defined in Github Pull Requests
+- **All of the above**
+
+> **Correct Answer : <br> All of the above**
+
+<br>
+
+#### Q15. How can you combine Application Set Generators?
+- **By using a matrix generator**
+- By using a list generator
+- By using a git generator with different folders
+- By using a git generator with different branches
+
+> **Correct Answer : <br> By using a matrix generator**
+
+<br>
+
+#### Q16. You want an Argo CD application to be deployed as soon as somebody creates a new Github repository with manifests. Which ApplicationSet generator should be used?
+- **SCM provider Generator**
+- Pull Request Generator
+- List Generator
+- Git Generator
+
+> **Correct Answer : <br> SCM provider Generator**
+
+<br>
