@@ -231,3 +231,22 @@
 
 <br>
 
+#### Q24. An Argo CD hook that runs in the PreSync phase has an error and fails. Argo CD will
+- Continue with the resources in the Sync Phase
+- Continue with the resources in the SyncFail Phase
+- Continue with the resources in the Skip Phase
+- **Abort the deployment**
+
+> **Correct Answer : <br> Abort the deployment**
+
+<br>
+
+#### Q25. Resource A is marked with Sync wave -1 and Resource B is marked with wave 5.
+- A will be deployed before B
+- B will be deployed before A
+- A will be placed in the PreSync phase and B in the PostSync phase
+- **We need to check for sync phases before we can answer**
+
+> **Correct Answer : <br> We need to check for sync phases before we can answer**
+
+<br>
