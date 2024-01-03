@@ -170,3 +170,64 @@
 > **Correct Answer : <br> Git Generator**
 
 <br>
+
+#### Q18. You want to create temporary environments for developers while they create new features on different branches. The correct ApplicationSet generator to use is
+- Git Generator
+- List Generator
+- SCM provider Generator
+- **Pull Request Generator**
+
+> **Correct Answer : <br> Pull Request Generator**
+
+<br>
+
+#### Q19. How can you model different GitOps environments?
+- Use a branch for each environment
+- Use a folder for each environment
+- Use a git repository for each environment
+- **Any of the above**
+
+> **Correct Answer : <br> Any of the above**
+
+<br>
+
+#### Q20. How does Argo Image Updater work?
+- **It monitors Docker registries for new containers**
+- It monitors configmaps for new changes
+- It monitors Argo CD applications for updates
+- It monitors Git repositories for new commits
+
+> **Correct Answer : <br> It monitors Docker registries for new containers**
+
+<br>
+
+#### Q21. You have a “staging” container tag that should always be deployed to a staging environment as soon as somebody updates it. The appropriate Argo Image updater strategy is
+- name
+- latest
+- digest
+- semver
+
+> **Wrong Answer : <br> name**
+
+<br>
+
+#### Q22. You have a production environment that gets container images with tags that match only 1.x version. The appropriate Argo Image updater strategy is
+- name
+- latest
+- digest
+- **semver**
+
+> **Correct Answer : <br> semver**
+
+<br>
+
+#### Q23. You have an application managed by Argo Image Updater with the “semver” strategy. The current image is tagged “1.4” with a constraint to “1.x” releases. You build a new image and push it with tag 1.2.7. This new container
+- will be deployed only if it doesn’t already exist in the registry
+- will be deployed only if it was deployed in the past at least once by Argo Image Updater
+- will not be deployed because it doesn’t match the constraints
+- **will not be deployed because 1.4 is newer**
+
+> **Correct Answer : <br> will not be deployed because 1.4 is newer**
+
+<br>
+
