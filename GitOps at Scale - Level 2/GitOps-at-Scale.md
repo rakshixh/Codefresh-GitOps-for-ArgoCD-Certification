@@ -320,3 +320,13 @@
 > **Correct Answer : <br> Sync waves and phases can be used on their own or both at once**
 
 <br>
+
+#### Q33. Resource A is in the PreSync phase and Sync wave 10. Resource B is in the Sync phase and has Sync wave 20. Resource C is in the SyncFail phase with sync wave 30
+- A will be deployed first, then B and then C
+- A will be deployed first, then B an C will be deployed in parallel
+- A will be deployed first. Then B. C will never be deployed
+- C will be deployed only if B fails to deploy
+
+> **Wrong Answer : <br>
+
+<br>
