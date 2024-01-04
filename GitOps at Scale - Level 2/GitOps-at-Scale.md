@@ -250,3 +250,53 @@
 > **Correct Answer : <br> We need to check for sync phases before we can answer**
 
 <br>
+
+#### Q26. Resource A is marked with Sync Wave -1 and placed in the Presync phase. Resource B is marked with Sync Wave: -99 and placed in the Skip phase
+- A will be deployed before B
+- B will be deployed before A
+- A and B will be deployed in parallel
+- **None of the above**
+
+> **Correct Answer : <br> None of the above**
+
+<br>
+
+#### Q27. Argo CD will mark an application as Failed if...
+- A PreSync hook  fails but PostSync hooks succeed
+- A Sync hook fails but Pre and Post hooks succeed
+- A FailSync hook fails but Sync hooks succeed
+- **Any hook fails regardless of its phase**
+
+> **Correct Answer : <br> Any hook fails regardless of its phase**
+
+<br>
+
+#### Q28. If a hook in the SyncFail phase has an error, Argo CD
+- will run the SyncFail hooks again
+- will run the PostSync hooks
+- **will abort the deployment and mark it as failed**
+- will abort the deployment and mark it as successful
+
+> **Correct Answer : <br> will abort the deployment and mark it as failed**
+
+<br>
+
+#### Q29. If a hook in the PostSync phase has an error, Argo CD
+- will run the SyncFail hooks
+- will run the Skip hooks
+- **will abort the deployment and mark it as failed**
+- will abort the deployment and mark it as successful
+
+> **Correct Answer : <br> will abort the deployment and mark it as failed**
+
+<br>
+
+#### Q30. Resource A is in the Sync phase and has no Sync wave. Resource B is in the Sync phase and has Sync wave 0
+- A will be deployed before B
+- B will be deployed before A
+- A and B will be deployed in parallel
+- **A and B will be deployed according to the default Resource ordering**
+
+> **Correct Answer : <br> A and B will be deployed according to the default Resource ordering**
+
+<br>
