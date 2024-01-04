@@ -327,6 +327,6 @@
 - A will be deployed first. Then B. C will never be deployed
 - C will be deployed only if B fails to deploy
 
-> **Wrong Answer : <br>
+> **Wrong Answer : <br>**
 
 <br>
