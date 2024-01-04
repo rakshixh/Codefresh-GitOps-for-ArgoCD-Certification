@@ -300,3 +300,13 @@
 > **Correct Answer : <br> A and B will be deployed according to the default Resource ordering**
 
 <br>
+
+#### Q31. Can you use sync waves to replace sync phases?
+- No, you need both sync waves and phases in an application
+- Yes, anything that be done with phases can be also done with waves
+- No, you need to use either sync waves or phases (but never both)
+- **Yes, but only if you don’t need the SyncFail mechanism**
+
+> **Correct Answer : <br> Yes, but only if you don’t need the SyncFail mechanism**
+
+<br>
