@@ -310,3 +310,13 @@
 > **Correct Answer : <br> Yes, but only if you don’t need the SyncFail mechanism**
 
 <br>
+
+#### Q32. What is the relationship between Sync Waves and phases?
+- Sync phases are obsolete. Use only Sync waves
+- Sync waves and phases are mutually exclusive
+- **Sync waves and phases can be used on their own or both at once**
+- Sync phases are for Helm applications and Sync waves for Kustomize applications
+
+> **Correct Answer : <br> Sync waves and phases can be used on their own or both at once**
+
+<br>
