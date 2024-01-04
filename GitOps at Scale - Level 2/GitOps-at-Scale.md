@@ -330,3 +330,13 @@
 > **Wrong Answer : <br>**
 
 <br>
+
+#### Q34. Resource A is in the PostSync phase and has Sync wave 5. Resource B is in the PostSync phase and has Sync Wave 5. Resource C is in the PostSync phase and has Sync Wave -10
+- C will be deployed first and then A and B will deployed in parallel
+- A and B will be deployed in parallel and then C will be deployed
+- **C will be deployed first and then A and B will be deployed according to default Resource order**
+- The order of deployment is undefined since all resources belong in the same Sync phase
+
+> **Correct Answer : <br> C will be deployed first and then A and B will be deployed according to default Resource order**
+
+<br>
