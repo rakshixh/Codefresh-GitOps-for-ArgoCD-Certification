@@ -340,3 +340,14 @@
 > **Correct Answer : <br> C will be deployed first and then A and B will be deployed according to default Resource order**
 
 <br>
+
+#### Q35. Resource A is in the PreSync phase with Sync wave 50. Resource B is in the SyncFail phase with Sync Wave  -50. Resource C is in the PostSync phase with wave -99
+- Resource C will be deployed first, then Resource B, and finally Resource A
+- Resource C will be deployed first then Resource A. Resource B will never be deployed
+- **Resource A will be deployed first, then Resource B (if applicable). Resource C will be deployed after A (if applicable)**
+- Resource A will be deployed first. Resource B will be skipped. Resource C will be deployed last
+
+> **Correct Answer : <br> Resource A will be deployed first, then Resource B (if applicable). Resource C will be deployed after A (if applicable)**
+
+<br>
+
