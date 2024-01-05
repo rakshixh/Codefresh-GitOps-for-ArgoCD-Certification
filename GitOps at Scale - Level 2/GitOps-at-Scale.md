@@ -361,3 +361,12 @@
 
 <br>
 
+#### Q37. When do you need to ignore differences in Argo CD resources?
+- When you use Helm charts with subcharts
+- When you store your Secrets in Configmaps
+- When the application is a Kubernetes operator
+- **When an application has values that should be dynamically modified after manifests are applied.**
+
+> **Correct Answer : <br> When an application has values that should be dynamically modified after manifests are applied.**
+
+<br>
