@@ -351,3 +351,13 @@
 
 <br>
 
+#### Q36. Resource A is in the PreSync phase with Sync wave 50. Resource B is in the Sync phase with Sync Wave  -10. Resource C is in the PostSync phase with wave 50
+- Resource C will be deployed first, then Resource B, and finally Resource A
+- Resource A and C will be deployed first and then Resource B
+- **Resource A will be deployed first then Resource B and finally Resource C**
+- Resource B will be deployed first then Resource A and C will be deployed in parallel.
+
+> **Correct Answer : <br> Resource A will be deployed first then Resource B and finally Resource C**
+
+<br>
+
