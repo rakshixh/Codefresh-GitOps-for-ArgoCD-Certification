@@ -540,3 +540,12 @@
 > **Correct Answer : <br> Order of commits affects every promotion done by merging**
 
 <br>
+
+#### Q50. What is the best way of modeling your GitOps environments?
+
+- Using git Branches for environments
+- Using folders in a single git repository
+- Using multiple git repositories (one for each environment)
+- **It depends according to the assumptions and limitations of your organization**
+
+> **Correct Answer : <br> It depends according to the assumptions and limitations of your organization**
