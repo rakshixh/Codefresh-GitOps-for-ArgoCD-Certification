@@ -518,3 +518,14 @@
 > **Correct Answer : <br> It is difficult to secure individual folders in a single git repository**
 
 <br>
+
+#### Q48. What is the major advantage of using branches as GitOps environments?
+
+- **Developers are already familiar with how git tools work**
+- A large number of environments can be easily modeled with only a few branches
+- Helm and Kustomize have native support for using git branches as different overlays/values
+- Configuration drift is avoided by avoiding the usage of “git cherry-pick”
+
+> **Correct Answer : <br> Developers are already familiar with how git tools work**
+
+<br>
