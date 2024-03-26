@@ -419,3 +419,12 @@
 > **Cprrect Answer : <br> To disable/enable application deployments for different time periods.**
 
 <br>
+
+#### Q39. An application has an “allow” sync window for 5pm to 6pm. The time is now 7pm
+
+- You can deploy the application as no sync window is active
+- You can deploy the application because no “deny” window is active
+- **You cannot deploy the application because no “allow” window is active**
+- You cannot deploy the application because a “deny” window is active
+
+> **Correct Answer : <br> You cannot deploy the application because no “allow” window is active**
