@@ -428,3 +428,16 @@
 - You cannot deploy the application because a “deny” window is active
 
 > **Correct Answer : <br> You cannot deploy the application because no “allow” window is active**
+
+<br>
+
+#### Q40. An application has a “deny” sync window for 5pm to 6pm. The time is now 7pm
+
+- You can deploy the application because an “allow” window is active
+- **You can deploy the application because no “deny” window is active**
+- You cannot deploy the application because no “allow” window is active
+- You cannot deploy the application because a “deny” window is active
+
+> **Correct Answer : <br> You can deploy the application because no “deny” window is active**
+
+<br>
