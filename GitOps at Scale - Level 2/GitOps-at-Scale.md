@@ -529,3 +529,14 @@
 > **Correct Answer : <br> Developers are already familiar with how git tools work**
 
 <br>
+
+#### Q49. What is the major disadvantage of using branches as GitOps environments?
+
+- **Order of commits affects every promotion done by merging**
+- Argo CD does not support picking individual branches for an application
+- Developers familiar with Git-flow cannot use Argo CD for manifest repositories
+- Manual approvals for deployments are no longer possible
+
+> **Correct Answer : <br> Order of commits affects every promotion done by merging**
+
+<br>
