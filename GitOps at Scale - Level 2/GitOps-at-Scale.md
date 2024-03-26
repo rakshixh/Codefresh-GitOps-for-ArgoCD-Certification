@@ -507,3 +507,14 @@
 > **Correct Answer : <br> All the above**
 
 <br>
+
+#### Q47. What is the major disadvantage of using folders as GitOps environments?
+
+- Developer don’t know how to use the “cp “command
+- The number of folders is twice the number of environments
+- Argo CD has limitations with handling subfolders in a git repository
+- **It is difficult to secure individual folders in a single git repository**
+
+> **Correct Answer : <br> It is difficult to secure individual folders in a single git repository**
+
+<br>
