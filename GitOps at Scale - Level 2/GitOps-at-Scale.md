@@ -474,3 +474,25 @@
 > **Wrong Answer : <br> You cannot deploy the application because of the situation as overlapping sync windows are not allowed**
 
 <br>
+
+#### Q44. What is the best way according to the GitOps principles to update the container of an application
+
+- Use “kubectl edit” to change the manifest in the cluster
+- Use the Argo CD UI to “edit” the manifest of the application
+- **Use your CI system to commit a change in the manifest stored in the git repository**
+- Use Argo Image updater and the “Argo CD write back” method
+
+> **Correct Answer : <br> Use your CI system to commit a change in the manifest stored in the git repository**
+
+<br>
+
+#### Q45. What is the major disadvantage of disabling “self-heal” in an application
+
+- The application can no longer be redeployed by git changes
+- **Manual changes in the cluster will no longer be detected and discarded**
+- The CI system can no longer monitor application deployment
+- The Argo CD UI will show the application as “out-of-sync” after each deployment
+
+> **Correct Answer : <br> Manual changes in the cluster will no longer be detected and discarded**
+
+<br>
