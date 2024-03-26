@@ -469,7 +469,7 @@
 - You can deploy the application because two “allow” windows are active
 - You can deploy the application because there are more “allow” windows than “deny” windows
 - You cannot deploy the application, “deny” windows override “allow” windows
-- **You cannot deploy the application because of the situation as overlapping sync windows are not allowed**
+- You cannot deploy the application because of the situation as overlapping sync windows are not allowed
 
 > **Wrong Answer : <br> You cannot deploy the application because of the situation as overlapping sync windows are not allowed**
 
