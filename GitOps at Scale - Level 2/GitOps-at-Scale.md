@@ -496,3 +496,14 @@
 > **Correct Answer : <br> Manual changes in the cluster will no longer be detected and discarded**
 
 <br>
+
+#### Q46. What is the major advantage of using folders as GitOps environments?
+
+- You can promote any change from any environment to any other environment
+- The order of commits is no longer relevant for environment promotions
+- Handling a large number of environments always results in managing a single git branch
+- **All the above**
+
+> **Correct Answer : <br> All the above**
+
+<br>
