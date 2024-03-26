@@ -452,3 +452,14 @@
 > **Correct Answer : <br> You cannot deploy the application, “deny” windows override “allow” windows**
 
 <br>
+
+#### Q42. An application has a “deny” sync window for 5pm to 7 pm, an “allow” sync window from 4pm to 8pm. The time is now 6pm
+
+- You can deploy the application because an “allow” window is active
+- You can deploy the application because the “allow” window has a larger period than the “deny” window
+- **You cannot deploy the application, “deny” windows override “allow” windows**
+- You cannot deploy the application because of the situation as overlapping sync windows are not allowed
+
+> **Correct Answer : <br> You cannot deploy the application, “deny” windows override “allow” windows**
+
+<br>
